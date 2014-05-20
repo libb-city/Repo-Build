@@ -1,0 +1,3 @@
+## This is to check whether or not push or pulling function of git works for this particular setup
+
+echo "Hello World"
